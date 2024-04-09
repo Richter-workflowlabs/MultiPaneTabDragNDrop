@@ -1,6 +1,6 @@
 # Quasar App (multipanesapp1)
 
-A Quasar Project
+A Quasar Project with multiple tabs and panes with drag and drop feature.
 
 ## Install the dependencies
 ```bash
