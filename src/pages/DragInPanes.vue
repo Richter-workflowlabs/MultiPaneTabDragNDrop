@@ -8,7 +8,7 @@
         separator-style="width: 3px"
       >
         <template v-slot:before>
-          <q-markup-table separator="vertical" flat bordered>
+          <q-markup-table separator="vertical" flat bordered dense>
             <thead>
               <tr>
                 <th class="text-left">sl</th>
@@ -49,7 +49,7 @@
         </template>
 
         <template v-slot:after>
-          <q-markup-table separator="vertical" flat bordered>
+          <q-markup-table separator="vertical" flat bordered dense>
             <thead>
               <tr>
                 <th class="text-left">sl</th>
